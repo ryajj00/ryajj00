@@ -17,6 +17,7 @@ Name: Jayr Infante<br>Front-End Web Developer | Pixel Artist (Hexadot) | IT Spec
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ryajj00&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github.com/ryajj00/wolfModel)
 
 ---
 [![](https://komarev.com/ghpvc/?username=ryajj00&icon=0&color=6)](https://visitcount.itsvg.in)
