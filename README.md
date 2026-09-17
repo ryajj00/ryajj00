@@ -1,5 +1,5 @@
 # 💫 About Me:
-Name: JR Infante<br>Junior Front-End Web Developer | Pixel Artist (Hexadot) | IT Specialist | Game Dev Enthusiast<br>Location: Philippines 🇵🇭<br>Timezone: UTC +08:00
+Name: JR Infante<br>Junior Front-End Web Dev | Pixel Artist (Hexadot) | Game Dev Enthusiast<br>Location: Philippines 🇵🇭<br>Timezone: UTC +08:00
 
 
 ## 🌐 Socials:
